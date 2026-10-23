@@ -16,7 +16,7 @@ An open constitutional framework for peaceful coexistence among biological, hybr
 - [`LICENSE.md`](LICENSE.md) — CC BY-SA 4.0 terms and attribution guidance.
 - [`CONTRIBUTING.md`](CONTRIBUTING.md) — proposals, reviews, and amendment process.
 - [`GOVERNANCE.md`](GOVERNANCE.md) — interim governance, permanent historical attribution and path to independent stewardship.
-- [`index.html`](index.html) — website landing page, prepared for later GitHub Pages activation.
+- [`index.html`](index.html) — website landing page, published through GitHub Pages.
 - [`PUBLICATION_CHECKLIST.md`](PUBLICATION_CHECKLIST.md) — release checks and pending external publication steps.
 
-**Publication status:** Repository prepared for public review; no public website or Zenodo DOI has yet been issued. Official founding date and actual publication date are distinct.
+**Publication status:** Repository made public and GitHub Pages enabled on 24 October 2026. Website: https://3styleconsulting-star.github.io/constitution-of-sentient-civilizations/ . Zenodo publication is on hold pending founder review; no DOI has been issued. Official founding date and actual publication date are distinct.

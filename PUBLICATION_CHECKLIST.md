@@ -7,7 +7,7 @@
 - [x] Record SHA-256 hashes of both founding files.
 - [x] Prepare CC BY-SA 4.0 license notice and attribution instructions.
 - [ ] Founder to review full final PDF, DOCX, license, privacy, and website copy.
-- [ ] Explicitly approve making repository public and activate public website.
+- [x] Founder approved public repository and website; repository made public and GitHub Pages enabled 24 October 2026.
 - [ ] Enable GitHub Discussions and Issues, configure moderation and branch protections.
 - [ ] Create a dated, immutable GitHub founding release.
 - [ ] Prepare Zenodo metadata and confirm it before issuing a permanent DOI.
