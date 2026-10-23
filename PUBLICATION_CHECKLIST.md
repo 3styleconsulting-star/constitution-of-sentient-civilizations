@@ -10,6 +10,6 @@
 - [x] Founder approved public repository and website; repository made public and GitHub Pages enabled 24 October 2026.
 - [ ] Enable GitHub Discussions and Issues, configure moderation and branch protections.
 - [ ] Create a dated, immutable GitHub founding release.
-- [ ] Prepare Zenodo metadata and confirm it before issuing a permanent DOI.
+- [x] Publish the founding PDF and verified metadata on Zenodo: https://zenodo.org/records/23606891 (DOI: 10.5281/zenodo.23606891; publication date 24 October 2026).
 
 The official founding date is not necessarily the date of first publication. This checklist is not public-release authorization.
