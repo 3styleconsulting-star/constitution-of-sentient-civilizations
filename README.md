@@ -12,7 +12,7 @@ An open constitutional framework for peaceful coexistence among biological, hybr
 
 ## Project structure
 
-- [`founding-edition/`](founding-edition/) — founding PDF and DOCX, with SHA-256 checksums; the historical originals remain unchanged.
+- [`founding-edition/`](founding-edition/) — founding PDF, with its SHA-256 checksum; the historical PDF remains unchanged.
 - [`LICENSE.md`](LICENSE.md) — CC BY-SA 4.0 terms and attribution guidance.
 - [`CONTRIBUTING.md`](CONTRIBUTING.md) — proposals, reviews, and amendment process.
 - [`GOVERNANCE.md`](GOVERNANCE.md) — interim governance, permanent historical attribution and path to independent stewardship.

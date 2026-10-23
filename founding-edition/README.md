@@ -14,3 +14,7 @@ The PDF and DOCX here constitute the founding edition. They are preserved withou
 - DOCX: `0EF81131F8BCA29667536F901730265B0628EBF0DE2178767D7F15928C1FB51B`
 
 These hashes identify the exact founding files in this archive. A public release date and any eventual Zenodo DOI must be recorded separately from the official founding date.
+
+## Public download update - 24 October 2026
+
+At the founder's request, the Word edition was removed from the current repository and website. The PDF remains the public reference edition. The historical DOCX checksum above records the original archive; the Word file remains recoverable from Git history.
