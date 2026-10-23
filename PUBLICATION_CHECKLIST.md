@@ -1,15 +1,15 @@
-# Publication checklist — requires founder review
+# Publication checklist
 
-- [ ] Add and verify the exact Draft 1.3 PDF and DOCX in `founding-edition/`.
-- [ ] Confirm official founding date: 24 October 2026; record actual publication date separately.
-- [ ] Confirm the full dedication to Leon Magne is preserved verbatim.
-- [ ] Verify all 14 articles, universal 18-year voting provision, anticipatory coexistence, and version history.
-- [ ] Decide license and contributor terms. No license has been selected yet.
-- [ ] Approve attribution: Prashant Sharma (human originator and co-developer); ChatGPT (GPT-6) (AI drafting collaborator).
-- [ ] Review privacy and remove unapproved personal details.
-- [ ] Review website content and discussion moderation policy.
-- [ ] Explicitly approve changing repository visibility from private to public.
-- [ ] Enable GitHub Discussions, Issues, and Pages when public release is approved.
-- [ ] Create Zenodo deposit, check metadata and DOI, and publish only after explicit approval.
+- [x] Archive exact Draft 1.3 PDF and DOCX in `founding-edition/`.
+- [x] Confirm official founding date: 24 October 2026 (actual public release date is separate).
+- [x] Confirm the dedication to Leon Magne and attribution in the founding Word file.
+- [x] Confirm Articles I–XIV, eighteen-year universal voting maturation, and anticipatory coexistence language in Word file.
+- [x] Record SHA-256 hashes of both founding files.
+- [x] Prepare CC BY-SA 4.0 license notice and attribution instructions.
+- [ ] Founder to review full final PDF, DOCX, license, privacy, and website copy.
+- [ ] Explicitly approve making repository public and activate public website.
+- [ ] Enable GitHub Discussions and Issues, configure moderation and branch protections.
+- [ ] Create a dated, immutable GitHub founding release.
+- [ ] Prepare Zenodo metadata and confirm it before issuing a permanent DOI.
 
-This checklist does not constitute publication approval.
+The official founding date is not necessarily the date of first publication. This checklist is not public-release authorization.
